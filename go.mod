@@ -3,7 +3,7 @@ module github.com/khulnasoft-lab/k8s-db-collector
 go 1.18
 
 require (
-	github.com/aquasecurity/vuln-list-update v0.0.0-20210902160608-378edf0454ff
+	github.com/aquasecurity/vuln-list-update ef17f9a90a3d
 	github.com/goark/go-cvss v1.6.6
 	github.com/khulnasoft-lab/go-pep440-version v1.0.0
 	github.com/stretchr/testify v1.8.4
